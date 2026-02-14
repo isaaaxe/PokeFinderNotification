@@ -1,0 +1,1 @@
+Currently incomplete, only works on my monitor, will need to adjust the numbers in 'new Rectangle(2310, 1190, 170, 170)' in /ScreenTest/Program if you want it to work for your game, will fix in the future
